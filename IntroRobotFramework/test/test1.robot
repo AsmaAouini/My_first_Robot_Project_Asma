@@ -12,7 +12,8 @@ My first test Selenium
     Click Button      id=btnLogin
     Click Element     id=welcome
     Click Element     link=Logout
-    Log    this test is executed by %{username} in %{os}   
+    Log    this test is executed by %{username} in %{os} 
+    Log    this is a simple text  
     Log               Fin des tests     
    
 *** Variables ***
